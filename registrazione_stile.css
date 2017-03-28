@@ -107,6 +107,7 @@ h2
 	width:40%;
 	height:100%;
 	margin-top:3%;
+	color:rgb(150, 150, 150);
 }
 
 .element
@@ -154,5 +155,29 @@ pre
 	color:rgb(150, 150, 150);
 	font-family: 'Arial', sans-serif;
 	font-size:1.5em;
+}
+.question
+{
+	margin-top:20%;
+	color:rgb(150, 150, 150);
+	font-family: 'Arial', sans-serif;
+	font-size:1.5em;
+}
+
+.login
+{
+	font-family: 'Arial', sans-serif;
+	margin-top:10px;
+	font-size:1.5em;
+}
+
+.login:visited
+{
+	color:black;
+}
+
+.login:link
+{
+	color:black;
 }
 

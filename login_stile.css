@@ -149,7 +149,7 @@ h2
 
 pre
 {
-	margin-top:23%;
+	margin-top:20%;
 	color:rgb(150, 150, 150);
 	font-family: 'Arial', sans-serif;
 	font-size:1.5em;
@@ -167,17 +167,19 @@ pre
 	color:rgb(26, 117, 255);
 }
 
-h3
+.question
 {
-	margin-top:18%;
+	margin-top:15%;
 	color:rgb(150, 150, 150);
+	font-family: 'Arial', sans-serif;
+	font-size:1.5em;
 }
 
 .register
 {
 	font-family: 'Arial', sans-serif;
-	margin-top:-15%;
-	font-size:1.1em;
+	margin-top:0%;
+	font-size:1.5em;
 }
 
 .register:visited
