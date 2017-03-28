@@ -20,6 +20,7 @@ body
 	left:0;
 }
 
+/**********************************************HEADER*****************************************************/
 img.logo 
 {
 	margin-left:3%;
@@ -115,7 +116,7 @@ header, a, img, li
 	-webkit-transition: 1s all;
 	
 }
-
+/***************************************************SEZIONE INTERMEDIA*************************************/
 .footer
 {
 	position:relative;
@@ -174,7 +175,7 @@ h1
 	text-decoration: none;
 	font-family: 'Lucida Grande', sans-serif;
 	font-size: 1.6em;
-	margin-top:16%;
+	margin-top:20%;
 	text-align:center;
 }
 
@@ -200,12 +201,69 @@ h1
 .line
 {
 	position:relative;
-	height:2px;
+	height:1px;
 	background-color:rgb(255, 255, 255);
-	width:95%;
+	width:100%;
 	margin:auto;
-	margin-top:4.5%;
+	margin-top:8%;
 	border-radius:2px;
 }
 
 
+/**********************************FOOTER************************************************/
+.footer_logo 
+{
+	margin-left:5.1%;
+	margin-top:5.5%;
+	width: 4%; 
+	height: 6%;
+	float:left;
+}
+
+.contact_container
+{
+	float:left;
+	width:15%;
+	height:25%;
+	margin-top:3%;
+	margin-left:35%;
+}
+
+.label_contatti
+{
+	font-family: 'Lucida Grande', sans-serif;
+	font-size:1.4em;
+	color:rgb(248, 248, 248);
+	margin-left:16%;
+	
+}
+
+.contatti
+{
+	font-family: 'Arial' ,sans-serif;
+	font-size:1.1em;
+	color: rgb(150, 150, 150);
+	margin-top:8%;
+	margin-left:15.5%;
+	
+}
+
+.social_container
+{
+	margin-left:75%;
+	margin-top:4%;
+}
+
+.label_social
+{
+	font-family: 'Lucida Grande', sans-serif;
+	font-size:1.4em;
+	color:rgb(248, 248, 248);
+}
+
+.social
+{
+	font-family: 'Arial' ,sans-serif;
+	font-size:1.1em;
+	color: rgb(150, 150, 150);
+}
