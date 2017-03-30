@@ -39,7 +39,7 @@ li
 header 
 {
 	background-color: rgb(10, 10, 10);
-	border-bottom: 3px solid rgb(255, 255, 255);
+	border-bottom: 1px solid rgb(255, 255, 255);
 	float: left;
 	width: 100%;
 	position:fixed;
@@ -178,8 +178,7 @@ pre
 .register
 {
 	font-family: 'Arial', sans-serif;
-	margin-top:0%;
-	font-size:1.5em;
+	font-size:0.9em;
 }
 
 .register:visited
