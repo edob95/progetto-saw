@@ -1,0 +1,22 @@
+body{
+   	position:relative;
+	height:100%;
+	background-image:url(images/prova1.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+	top:0;
+	left:0;
+    font-size: 30px;
+}
+#welcome{
+    color: bisque;
+}
+#links{
+    text-align: right;
+    color: aqua;
+}
+#links a, a.active, a.hover{
+    text-align: right;
+    color: aqua;
+}
+
